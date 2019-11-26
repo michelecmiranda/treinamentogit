@@ -1,22 +1,3 @@
-teste ggx
-testeteste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-teste
-
-xx
-xx
-xx
-
-aaaaa
-aaaaa
-aaaaa
-
-xx
-teste
+a
+b
+c
